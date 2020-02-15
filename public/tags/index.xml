@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on The Wine Guy</title>
+    <link>https://blog.jameshsu.csie.org/tags/</link>
+    <description>Recent content in Tags on The Wine Guy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Sep 2018 05:13:55 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.jameshsu.csie.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>人生觀</title>
+      <link>https://blog.jameshsu.csie.org/tags/%E4%BA%BA%E7%94%9F%E8%A7%80/</link>
+      <pubDate>Tue, 11 Sep 2018 05:13:55 +0000</pubDate>
+      
+      <guid>https://blog.jameshsu.csie.org/tags/%E4%BA%BA%E7%94%9F%E8%A7%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>大學生活</title>
+      <link>https://blog.jameshsu.csie.org/tags/%E5%A4%A7%E5%AD%B8%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Tue, 11 Sep 2018 05:13:55 +0000</pubDate>
+      
+      <guid>https://blog.jameshsu.csie.org/tags/%E5%A4%A7%E5%AD%B8%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>時間</title>
+      <link>https://blog.jameshsu.csie.org/tags/%E6%99%82%E9%96%93/</link>
+      <pubDate>Tue, 11 Sep 2018 05:13:55 +0000</pubDate>
+      
+      <guid>https://blog.jameshsu.csie.org/tags/%E6%99%82%E9%96%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>生活</title>
+      <link>https://blog.jameshsu.csie.org/tags/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Tue, 11 Sep 2018 05:13:55 +0000</pubDate>
+      
+      <guid>https://blog.jameshsu.csie.org/tags/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>租屋</title>
+      <link>https://blog.jameshsu.csie.org/tags/%E7%A7%9F%E5%B1%8B/</link>
+      <pubDate>Tue, 11 Sep 2018 05:13:55 +0000</pubDate>
+      
+      <guid>https://blog.jameshsu.csie.org/tags/%E7%A7%9F%E5%B1%8B/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
