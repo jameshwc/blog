@@ -1,7 +1,7 @@
 ---
 title: "星座與 MBTI"
 date: 2021-04-24T17:38:43+08:00
-draft: true
+draft: false
 ---
 
 ## 如何一句話得罪理工人[^1]
