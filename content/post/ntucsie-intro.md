@@ -30,7 +30,7 @@ draft: false
 
 ## 目錄
 
-[台大資工系紀實與心得 - 前言與導讀]({{< relref "/post/ntucsie-intro.md" >}})
+台大資工系紀實與心得 - 前言與導讀
 
 [台大資工系紀實與心得 (1) - 天賦與實力的落差]({{< relref "/post/ntucsie-i.md" >}})
 
