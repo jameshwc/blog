@@ -6,7 +6,7 @@ draft: false
 
 嗨，我在這裡使用的名字是 The Wine Guy，不過我也沒有特別隱藏真實世界的身分，文末會附其他聯絡方式。
 
-畢業於台大資工系（B07），寫文的當下正在服四個月兵役。退伍後預計前往新加坡的 ByteDance (TikTok) 工作。關於工作經歷可以參考我的 [Linkedin](https://linkedin.com/in/jameshwc)，或者部落格的幾篇文章（實習：[NTU COOL]({{< relref "/post/2019暑假cool實習心得.md" >}})、[大二回顧（國泰、Intel）]({{< relref "/post/大二回顧.md" >}})；ByteDance：[成為各處]({{< relref "/post/成為各處.md" >}})）。
+畢業於台大資工系（B07），目前正在倫敦的 TikTok 當軟體工程師。關於工作經歷可以參考我的 [Linkedin](https://linkedin.com/in/jameshwc)，或者部落格的幾篇文章（實習：[NTU COOL]({{< relref "/post/2019暑假cool實習心得.md" >}})、[大二回顧（國泰、Intel）]({{< relref "/post/大二回顧.md" >}})；ByteDance：[成為各處]({{< relref "/post/成為各處.md" >}})）。
 
 這個部落格主要放我程式以外，對於人生觀、價值觀，或是生活的一些思考。如果要看程式的分享，請前往我的[技術部落格](https://tech-blog.jameshsu.csie.org)。
 
