@@ -2,7 +2,7 @@
 title: "翻譯：何處是你家"
 date: 2024-02-09T01:28:25Z
 lastmod: 2024-02-09T01:28:25Z
-draft: true
+draft: false
 keywords: []
 description: ""
 tags: []
@@ -44,7 +44,7 @@ mathjax: false
 
 然而當你風塵僕僕的從遠方返家，你卻開始想念在原本的城市，不受他人打擾的生活步調，想念週日常吃的那家早午餐店，想念你時常來作客的新朋友，想念說走就走的旅行，想念在路上認識的陌生人以及從租屋處陽台就能看到的美景。
 
-新家曾經讓你不堪其擾的靜謐，在你回到擁擠的舊家時卻變成你最渴望的東西。你意識到這樣根本沒完沒了，也許當你年紀更大你會慢慢習慣這種感覺，但現在你才二十多歲，生活竟已是如此艱難，不管你多麼想要享受在家的感覺，你往往發現你實際在想念遠方你曾擁有的一切。
+新家曾經讓你不堪其擾的靜謐，在你回到擁擠的舊家時卻變成你最渴望的東西。你意識到這樣根本沒完沒了，也許當你年紀更大你會慢慢習慣這種感覺，但現在你才二十多歲，生活竟已是如此艱難，不管你多麼想要享受在家的感覺，你往往發現，你實際在想念你曾擁有的遠方。
 
 > {{< rawhtml >}}<p style="font-size: 16px; color: gray;">You think that maybe the romantics are right. Maybe, you will find home in some other person, a better half. But the truth is that you will find a piece of you in every place you have ever been, in every person you have ever loved. You paint your nails the way that senior in your school did when you were 12 years old. And there's an album in the corner of your room that your first kiss suggested for you to listen to, and that's how you discovered your favourite rock band. You find your habits lingering in the way your brother arranges his books—separating hardcovers from paperbacks and organising them by colour. Nobody does that, you think. </p>{{< /rawhtml >}}
 
@@ -52,7 +52,7 @@ mathjax: false
 
 但真相是——你會在你去過的每個地方、你愛過的每個人，找到一部份的自己。
 
-你穿搭的款式是模仿你大學學姐的；你放在房間角落的唱片是你初吻對象推薦的，而那是你如何和你最愛的搖滾樂團邂逅的方式；你想到你跟你哥一樣都會把書按照平裝、精裝本分門別類，還得照顏色排序，你覺得根本沒有其他人會做這種怪事。
+你穿搭的款式是模仿你大學學姐的；你放在房間角落的唱片是你初吻對象推薦的，而那樂團後來成了你的最愛；你想到你跟你哥一樣都會把書按照平裝、精裝本分門別類，還得照顏色排序，你覺得根本沒有其他人會做這種怪事。
 
 > {{< rawhtml >}}<p style="font-size: 16px; color: gray;">You realise that blueberry yogurt on toast and little flowers of butter and orange jam isn't your recipe; it's the way your Mother used to make toast for you when you were five. You notice that your best friend still plays your road trip playlist when she drives, and you cook chicken the same way your roommate in college taught you. You share your habit of clicking pictures of flowers by the roads with your Dad, and like your ex, you always check traffic on maps before leaving. Even if you don't talk to them anymore, you will always have tenderness in your heart for people. You will realise that so much of them is you, and so much of you is them.  </p>{{< /rawhtml >}}
 
