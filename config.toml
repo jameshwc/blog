@@ -70,9 +70,6 @@ defaultContentLanguage = "zh-tw"           # Default language to use
   keywords = ["Hugo", "theme","jane"]
   description = "The blog of The Wine Guy."
   
-  [params.author]
-    name = "The Wine Guy"
-  
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "2006-01-02"
 
@@ -95,7 +92,7 @@ defaultContentLanguage = "zh-tw"           # Default language to use
     # b-stack-overflow = "http://localhost:1313"
     # c-twitter = "http://localhost:1313"
     b-facebook = "https://facebook.com/jameshwc"
-    e-linkedin = "https://www.linkedin.com/in/維謙-徐-549220183/"
+    e-linkedin = "https://www.linkedin.com/in/jameshwc/"
     # f-google = "http://localhost:1313"
     g-github = "https://github.com/jameshwc"
     # h-weibo = "http://localhost:1313"
