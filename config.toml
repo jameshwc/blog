@@ -70,6 +70,9 @@ defaultContentLanguage = "zh-tw"           # Default language to use
   keywords = ["Hugo", "theme","jane"]
   description = "The blog of The Wine Guy."
   
+  [params.author]
+    name = "The Wine Guy"
+  
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "2006-01-02"
 
